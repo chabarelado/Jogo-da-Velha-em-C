@@ -52,3 +52,10 @@ gcc jogo_da_velha.c -o jogo
 🔧 Melhorias Futuras
 
     Adicionar contagem de pontos (placar).
+
+    Suporte para jogar novamente sem reiniciar o programa.
+
+    Implementar um modo contra o computador.
+
+    Interface gráfica com bibliotecas como SDL ou ncurses.
+
